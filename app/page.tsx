@@ -3,6 +3,7 @@ import { LeadershipSection } from "@/components/leadership-section"
 import { WhatWeDoSection } from "@/components/what-we-do"
 import { FuturePlansSection } from "@/components/future-plans"
 import { ContactSection } from "@/components/contact-section"
+import { GallerySection } from "@/components/gallery-section" // Import added
 import { Navbar } from "@/components/navbar"
 import Image from "next/image"
 
@@ -13,6 +14,10 @@ export default function Page() {
       <HeroSection />
       <LeadershipSection />
       <WhatWeDoSection />
+      
+      {/* Gallery Section Added Here */}
+      <GallerySection />
+      
       <FuturePlansSection />
       <ContactSection />
 

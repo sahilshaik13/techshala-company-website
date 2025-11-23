@@ -42,6 +42,7 @@ export function Navbar() {
     { name: "Home", id: "home" },
     { name: "Leadership", id: "leadership" },
     { name: "What We Do", id: "about" },
+    { name: "Gallery", id: "gallery" }, // Added Gallery Link
     { name: "Future Plans", id: "future-plans" },
   ]
 
