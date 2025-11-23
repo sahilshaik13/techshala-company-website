@@ -1,0 +1,25 @@
+[00:00:01.429] Server  LOG      ✓ Ready in 854ms
+[00:00:04.634] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:04.894] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:04.894] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:04.894] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/#about color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/#about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763918908368}
+[00:00:16.771] Server  LOG     Sending email from: "techshala2025@gmail.com"
+[00:00:18.373] Server  ERROR   D:\techshala-company-website\.next\dev\server\chunks\node_modules_3a6e3740._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:18.377] Server  ERROR   Error sending email: Error: Can't send mail - all recipients were rejected: 555-5.5.2 Syntax error, cannot decode response. For more information, go to
+555-5.5.2  https://support.google.com/a/answer/3221692 and review RFC 5321
+555 5.5.2 specifications. d2e1a72fcca58-7c3f024adcfsm12090928b3a.31 - gsmtp
+[00:01:19.989] Server  LOG     Sending email from: "techshala2025@gmail.com"
+[00:01:21.431] Server  ERROR   D:\techshala-company-website\.next\dev\server\chunks\node_modules_3a6e3740._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:01:21.433] Server  ERROR   Error sending email: Error: Can't send mail - all recipients were rejected: 555-5.5.2 Syntax error, cannot decode response. For more information, go to
+555-5.5.2  https://support.google.com/a/answer/3221692 and review RFC 5321
+555 5.5.2 specifications. d9443c01a7336-29b5b25c104sm112053745ad.54 - gsmtp
+[00:02:03.042] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/customize-plan color: rgb(120, 120, 120) color: inherit {"dp":"/customize-plan","o":"http://localhost:3000/customize-plan","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763919026527}
+[00:02:10.897] Server  LOG     Sending email from: "techshala2025@gmail.com"
+[00:02:12.931] Server  ERROR   D:\techshala-company-website\.next\dev\server\chunks\node_modules_3a6e3740._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:02:12.933] Server  ERROR   Error sending email: Error: Can't send mail - all recipients were rejected: 555-5.5.2 Syntax error, cannot decode response. For more information, go to
+555-5.5.2  https://support.google.com/a/answer/3221692 and review RFC 5321
+555 5.5.2 specifications. d2e1a72fcca58-7c3ecf80f4csm11883787b3a.8 - gsmtp
+[00:02:37.647] Server  LOG        Reload env: .env.local
+[00:02:42.064] Server  LOG     Sending email from: "techshala2025@gmail.com"
+[00:02:50.067] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/#contact color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/#contact","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1763919073505}
+[00:02:56.381] Server  LOG     Sending email from: "techshala2025@gmail.com"
