@@ -356,14 +356,14 @@ function LeadershipSection() {
         {
             name: "Mohammed Hassaan Ali",
             role: "Founder & CEO",
-            imageSrc: "/hassaan-ali.jpg",
+            imageSrc: "/hassaanali.png",
             bio: "Visionary leader dedicated to democratizing technology education. Passionate about bridging the gap between raw talent and industry demands.",
-            linkedinUrl: "#"
+            linkedinUrl: "https://www.linkedin.com/in/mohammed-hassaan-ali-b41b66380/"
         },
         {
             name: "Mohammed Shaik Sahil",
             role: "Co-Founder & COO",
-            imageSrc: "/shaiksahil.png",
+            imageSrc: "/shaiksahil (2).png",
             bio: "Operational strategist ensuring excellence in every program. Focused on creating scalable pathways for student success and organizational growth.",
             linkedinUrl: "https://www.linkedin.com/in/mdshaiksahil"
         }
